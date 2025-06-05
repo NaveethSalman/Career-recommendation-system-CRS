@@ -1,0 +1,28 @@
+# Ignore virtual environment
+streamlit/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and credentials
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Logs and cache
+*.log
+.cache/
+
+# Streamlit specific
+.streamlit/config.toml
+
